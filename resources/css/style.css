@@ -1,1 +1,53 @@
 /*css stylesheet*/
+body {
+  background-color: black;
+  font-color: white;
+}
+
+#header h1 {
+  font-family: veranda;
+  font-weight: normal;
+  font-size: 50px;
+  font-color: white;
+  text-align: center;
+}
+
+#phone p {
+  font-color: aquamarine;
+  font-size: 16px;
+}
+
+#phone img {
+
+}
+
+#tent h1 {
+  font-family: veranda;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+#tent p {
+  font-family: veranda;
+  font-size: 21px;
+  font-color: gray;
+
+}
+
+#clipart h1 {
+  font-family: veranda;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+#clipart p {
+  font-color: aquamarine;
+  font-size: 16px;
+}
+
+#copyright p {
+  font-color: gray;
+  text-align: right;
+}
